@@ -10,8 +10,15 @@ Protons always entered through the front face. However, to investigate various s
 
 By default, the proton has 200 GeV of energy and travels centrally and parallel to the x-axis. Statistics were gathered for 2000 protons.
 
-- ![Figure 1](./img/jeden.png) – Reflections from a single proton
-- ![Figure 2](./img/random.png) – Reflections from 20 protons
+<p allign ="center">
+  <img src="./img/jeden.png" width ="500">
+</p>
+
+– Reflections from a single proton
+
+![Figure 2](./img/random.png) 
+
+– Reflections from 20 protons
 
 ## 2. Results
 
