@@ -10,24 +10,47 @@ Protons always entered through the front face. However, to investigate various s
 
 By default, the proton has 200 GeV of energy and travels centrally and parallel to the x-axis. Statistics were gathered for 2000 protons.
 
-<p allign ="center">
-  <img src="./img/jeden.png" width ="500">
-</p>
 
 – Reflections from a single proton
 
-![Figure 2](./img/random.png) 
+<p align ="center">
+  <img src="./img/jeden.png" width ="500">
+</p>
 
 – Reflections from 20 protons
+
+<p align ="center">
+  <img src="./img/random.png" width ="500">
+</p> 
+
 
 ## 2. Results
 
 ### 2.1 Central parallel beam, Ep = 200 GeV
 
-- ![Figure 3](./img/zdj3) – Photon impact distribution on the photocathode
-- ![Figure 4](./img/zdj4) – Photoelectron time distribution
-- ![Figure 5](./img/zdj5) – Photoelectron count distribution
-- ![Figure 6](./img/zdj6) – Energy distribution of incident photons
+– Photon impact distribution on the photocathode
+
+<p align ="center">
+  <img src="./img/Set.root_hPhotonXZ.png" width ="500">
+</p> 
+
+– Photoelectron time distribution
+
+<p align ="center">
+  <img src="./img/Set.root_hPE_Time.png" width ="500">
+</p> 
+
+– Photoelectron count distribution
+
+<p align ="center">
+  <img src="./img/Set.root_hPhotoElectronsPerEvent.png" width ="500">
+</p> 
+
+– Energy distribution of incident photons
+
+<p align ="center">
+  <img src="./img/Set.root_hPhotonEnergy.png" width ="500">
+</p> 
 
 Observations:
 - The center of the cone (Fig. 3) corresponds to the proton impact point.
@@ -37,8 +60,17 @@ Observations:
 
 ### 2.2 Parallel beam with random proton position on front face, Ep = 200 GeV
 
-- ![Figure 7](./img/zdj7) – Photoelectron count vs. distance from beam axis
-- ![Figure 8](./img/zdj8) – Average photoelectron count vs. distance
+– Photoelectron count vs. distance from beam axis
+
+<p align ="center">
+  <img src="./img/RnadomPosition.root_NumberOfPEvsDistance.png" width ="500">
+</p> 
+
+– Average photoelectron count vs. distance
+
+<p align ="center">
+  <img src="./img/RnadomPosition.root_NumberOfPEvsDistance1D.png" width ="500">
+</p> 
 
 Findings:
 - The average photoelectron count is relatively constant.
@@ -46,9 +78,23 @@ Findings:
 
 ### 2.3 Central beam with random angle of incidence, Ep = 200 GeV
 
-- ![Figure 9](./img/zdj9) – Photoelectrons vs. angle φ
-- ![Figure 10](./img/zdj10) – Photoelectrons vs. angle θ
-- ![Figure 11](./img/zdj11) – Photoelectrons vs. direction of incidence
+– Photoelectrons vs. angle φ
+
+<p align ="center">
+  <img src="./img/RandomAngle.root_NumberOfPEvsPhi.png" width ="500">
+</p> 
+
+– Photoelectrons vs. angle θ
+
+<p align ="center">
+  <img src="./img/RandomAngle.root_NumberOfPEvsTheta.png" width ="500">
+</p> 
+
+– Photoelectrons vs. direction of incidence
+
+<p align ="center">
+  <img src="./img/RandomAngle.root_NumberOfPEvsAngle.png" width ="500">
+</p> 
 
 Findings:
 - The angle θ has the greatest impact – the smaller it is, the more photons are generated.
@@ -56,8 +102,17 @@ Findings:
 
 ### 2.4 Central parallel beam with variable energy
 
-- ![Figure 12](./img/zdj12) – Photoelectrons vs. proton energy
-- ![Figure 13](./img/zdj13) – Average photoelectrons vs. proton energy
+– Photoelectrons vs. proton energy
+
+<p align ="center">
+  <img src="./img/RandomEnergy.root_NumberOfPEvsProtonEnergy.png" width ="500">
+</p> 
+
+– Average photoelectrons vs. proton energy
+
+<p align ="center">
+  <img src="./img/RandomEnergy.root_NumberOfPEvsProtonEnergy1D.png" width ="500">
+</p> 
 
 Findings:
 - The number of photoelectrons increases with energy.
