@@ -1,8 +1,4 @@
 # Cherenkov Radiation – GasTOF Detector
-
-**Author:** Wiktoria Maksymiak  
-**Student ID:** 415583
-
 ## 1. Introduction
 The goal of the project was to design a gas Cherenkov radiation detector consisting of a chamber filled with C4F10 gas, surrounded by mirrors and a photocathode. The purpose was to analyze generated photons, and through them, the incoming protons.
 
