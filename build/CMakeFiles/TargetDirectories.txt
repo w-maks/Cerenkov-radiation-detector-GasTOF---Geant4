@@ -1,7 +1,0 @@
-/home/local1/program/build/CMakeFiles/program_glowny.dir
-/home/local1/program/build/CMakeFiles/edit_cache.dir
-/home/local1/program/build/CMakeFiles/rebuild_cache.dir
-/home/local1/program/build/CMakeFiles/list_install_components.dir
-/home/local1/program/build/CMakeFiles/install.dir
-/home/local1/program/build/CMakeFiles/install/local.dir
-/home/local1/program/build/CMakeFiles/install/strip.dir
